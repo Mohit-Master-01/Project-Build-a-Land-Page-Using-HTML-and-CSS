@@ -1,5 +1,18 @@
 # Build A Land Page of a Website Using HTML and CSS
 
+About
+This project is created for demonstration and educational purposes only. It showcases the design and functionality of a basic contact form with a footer.
+
+Disclaimer
+The name "Solutions" used in the footer is a placeholder and does not refer to any real company, organization, or trademark.
+This project is not intended for commercial use or deployment in any production environment.
+Any resemblance to existing brands, names, or entities is purely coincidental.
+Purpose
+The primary objective of this project is to:
+
+Demonstrate the use of HTML and CSS to create a responsive contact form.
+Showcase proper UI design practices for learning purposes.
+
 # Snapshots
 
 ![Screenshot 2024-11-16 200725](https://github.com/user-attachments/assets/caca72b3-8f43-4e79-91d3-f504719bd6b9)
